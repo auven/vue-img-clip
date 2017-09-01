@@ -1,6 +1,6 @@
 {
   "name": "vue-img-clip",
-  "description": "A Vue.js project",
+  "description": "vue2.0+canvas图片文字合成",
   "version": "1.0.0",
   "author": "Auven <1273961575@qq.com>",
   "private": true,

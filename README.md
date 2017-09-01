@@ -19,6 +19,6 @@ npm run build
 
 ## 展示
 
-<div align=center><img width="400" src="https://raw.githubusercontent.com/auven/vue-img-clip/master/gif/2017-09-01_12-48-41.gif"/></div>
+<div align=center><img width="300" src="https://raw.githubusercontent.com/auven/vue-img-clip/master/gif/2017-09-01_12-48-41.gif"/></div>
 
-<div align=center><img width="400" src="https://raw.githubusercontent.com/auven/vue-img-clip/master/gif/2017-09-01_12-51-16.gif"/></div>
+<div align=center><img width="300" src="https://raw.githubusercontent.com/auven/vue-img-clip/master/gif/2017-09-01_12-51-16.gif"/></div>
